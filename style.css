@@ -86,12 +86,10 @@ p {
 article:hover: {
     background-color: red;
 }
-.insperation {
 
-   width: 160px;
-    transition: transform.2s;
-
+img{
+ transition: transform.2s;   
 }
-.insperation:hover{
+img:hover{
     transform: scale(0.9);
 }
